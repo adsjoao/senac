@@ -10,3 +10,6 @@ img{
 body{
     background: #045d59;
 }
+h1,h2,h3,p,ul{
+    color: aliceblue;
+}
