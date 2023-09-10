@@ -1,0 +1,12 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+.capa{
+    height: auto;
+    width: auto;
+    align-items: center;
+}
+body{
+    background: #045d59;
+}
